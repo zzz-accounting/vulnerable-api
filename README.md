@@ -2,6 +2,8 @@
 
 This repository contains an example Python API that is vulnerable to several different web API attacks.
 
+Some change to the develop branch...
+
 ## Installation
 
 We will be using docker images and containers to install all the api. 
@@ -342,4 +344,3 @@ Vulnerability Categories Include:
 10. AuthN bypass
 11. Command Injection
 12. Regex DDoS
-
