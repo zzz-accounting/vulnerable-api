@@ -4,7 +4,8 @@ This repository contains an example Python API that is vulnerable to several dif
 
 ## Installation
 
-We will be using docker images and containers to install all the api. 
+We will be using docker images and containers to install all the api.
+Blargity blarg blarg
 
 ### MacOSX
 
@@ -342,4 +343,3 @@ Vulnerability Categories Include:
 10. AuthN bypass
 11. Command Injection
 12. Regex DDoS
-
